@@ -1,6 +1,0 @@
-@MenupApi_HostAddress = http://localhost:5187
-
-GET {{MenupApi_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
