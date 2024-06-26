@@ -1,0 +1,6 @@
+@MenupApi.API_HostAddress = http://localhost:5233
+
+GET http://localhost:5233/weatherforecast/
+Accept: application/json
+
+###
